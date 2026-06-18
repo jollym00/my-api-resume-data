@@ -1,0 +1,97 @@
+{
+  "profile": {
+    "name": "Melwin Jolly",
+    "title": "Full-Stack & Analytics Engineer | Strategy, Risk & Transactions",
+    "location": "Melbourne, VIC",
+    "email": "m**********@gmail.com",
+    "linkedin": "linkedin.com/in/melwinjolly"
+  },
+  "summary": "3 years shipping production code at Deloitte AU and BlueScope across React, .NET, Azure, and SQL. Already delivered inside Deloitte's culture, toolchain, and client model. Looking to deepen into analytics engineering and bring measurable outcomes to SRT engagements.",
+  "experience": [
+    {
+      "id": 1,
+      "role": "Operational Technology Software Engineer",
+      "company": "BlueScope Steel",
+      "period": "Nov 2025 – Present",
+      "highlights": [
+        "Delivered CRUD-complete RESTful API suite in .NET within 6 weeks, replacing a manual legacy workflow used by 40+ internal operators daily.",
+        "Built Blazor frontend from zero to production in 8 weeks, cutting operator task time by an estimated 35%.",
+        "Migrated 3 core modules from legacy .NET Framework to .NET 8 with zero regression defects on release.",
+        "Reduced API response errors by writing targeted integration tests, improving endpoint reliability before first client-facing demo."
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Graduate Software Consultant",
+      "company": "Deloitte Australia",
+      "period": "Mar 2023 – Jul 2025",
+      "highlights": [
+        "Owned end-to-end delivery of CMS platform (Sitecore + React) for a national retail client, shipping 4 major feature releases with no post-release P1 incidents.",
+        "Contributed to Azure DevOps CI/CD pipelines integrating Vercel and AWS, reducing deployment cycle time to same-day.",
+        "Built a reusable React component library (15+ components) adopted across 3 parallel client workstreams.",
+        "Identified and resolved 2 critical rendering bugs affecting SEO-indexed pages under a hard client deadline.",
+        "Collaborated with UX/UI designers using Figma specs, cutting back-and-forth review cycles by ~50%."
+      ]
+    },
+    {
+      "id": 3,
+      "role": "Student Lead Software Developer",
+      "company": "Anitech Pty Ltd (University Capstone)",
+      "period": "Mar 2022 – Nov 2022",
+      "highlights": [
+        "Architected a compliance management SaaS on AWS (PHP, JavaScript, MariaDB) delivering real-time legal update feeds to 3 pilot client organisations.",
+        "Built a PayPal-integrated subscription model with 2FA (Microsoft + Google Authenticator), enabling a live revenue stream before project handover.",
+        "Led a team of 4 developers, authoring sprint plans and technical documentation for on-time delivery."
+      ]
+    },
+    {
+      "id": 4,
+      "role": "Software Developer Intern",
+      "company": "Numob Application Technology",
+      "period": "Nov 2021 – Jan 2022",
+      "highlights": [
+        "Built a CMS from scratch using Vue.js with JSON-based dynamic data storage, eliminating developer-dependency for routine content changes.",
+        "Developed JavaScript document conversion utilities (Excel, Word, HTML) streamlining workflows across 2 internal product teams."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Master of Professional Engineering",
+      "major": "Engineering Management",
+      "institution": "Swinburne University",
+      "completed": "Dec 2024"
+    },
+    {
+      "id": 2,
+      "degree": "Bachelor of Engineering (Honours)",
+      "major": "Software (Business elective)",
+      "institution": "Swinburne University",
+      "completed": "Dec 2022"
+    },
+    {
+      "id": 3,
+      "degree": "Diploma of Theology",
+      "major": "Theology/Theological Studies",
+      "institution": "University of Divinity",
+      "completed": "Mar 2023"
+    },
+    {
+      "id": 4,
+      "degree": "Graduate Certificate in Divinity",
+      "major": "History & Christology",
+      "institution": "University of Divinity",
+      "completed": "Mar 2026"
+    }
+  ],
+  "skills": {
+    "languages_frameworks": ["TypeScript", "JavaScript (ES6+)", "React.js", "Vue.js", ".NET (C#)", "Blazor", "PHP", "HTML5", "CSS3"],
+    "backend_apis": ["RESTful API design", "Node.js serverless patterns", ".NET Web API", "GraphQL", "Azure Functions"],
+    "data_analytics": ["SQL", "MariaDB", "MySQL", "Azure Data services", "data pipeline concepts", "dashboard & reporting"],
+    "devops_cicd": ["Azure DevOps Pipelines", "GitHub Actions", "Git", "Docker", "Vercel", "AWS (EC2, S3)", "Storybook"],
+    "cms_platforms": ["Sitecore XP", "custom NPM packages", "Bootstrap", "Figma"],
+    "ai_tools": ["GitHub Copilot", "Claude", "ChatGPT"],
+    "process": ["Agile/Scrum", "ITIL incident management", "technical documentation", "cross-functional collaboration"]
+  }
+}
